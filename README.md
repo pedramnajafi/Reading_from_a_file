@@ -1,6 +1,6 @@
 # Reading_from_a_file
 A simple example of how to read a file
-.
+
       text_file = open('inputFile.txt', 'r')
 
 
