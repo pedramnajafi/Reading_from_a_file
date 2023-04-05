@@ -8,3 +8,4 @@ A simple example of how to read a file
               print(line)
       text_file.close()
 
+
