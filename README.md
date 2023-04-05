@@ -10,3 +10,4 @@ A simple example of how to read a file
 
       text_file.close()
 
+
